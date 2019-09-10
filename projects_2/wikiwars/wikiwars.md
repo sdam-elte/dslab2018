@@ -1,5 +1,5 @@
 # Wars on wikipedia
-### Consultant: 
+### Consultant: Eszter Bokányi
 In this project based on the work of T. Yasseri et al.
 
 - Link to the Yasseri et al. paper: [www](https://arxiv.org/abs/1305.5566) 
