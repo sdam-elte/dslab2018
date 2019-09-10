@@ -1,4 +1,5 @@
 # Predicting flowering dates based on meteorological information
+### Consultant: Imre Jánosi
 
 Many plants under mid-latitude climate have evolved to time flowering to maximize 
 outcrossing, minimize exposure to damaging frosts, and synchronize development with 
