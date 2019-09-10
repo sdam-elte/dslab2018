@@ -1,5 +1,5 @@
 # Ontology based on wikipedia
-
+### Consultant: Eszter Bokányi
 In this project is based on the work of Suchanek at al
 
 - Link to the Suchanek et al. paper: [www](https://www.sciencedirect.com/science/article/pii/S1570826808000437) 
