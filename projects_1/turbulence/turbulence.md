@@ -1,5 +1,5 @@
 # Scaling in turbulence
-
+### Consultant: Imre Jánosi
 In this project based on the work of Elsas et al. (2018) you will analyse large scale hydrodynamical simulations datasets and investigate power-law scaling of high-order moments of velocity increments (structure functions) and dissipation rates.
 
 - Link to the Elsas et al. (2018) paper: Elsas, J.H., Szalay, A.S. and Meneveau, C., 2018. Geometry and scaling laws of excursion and iso-sets of enstrophy and dissipation in isotropic turbulence. Journal of Turbulence, 19(4), pp.297-321. [JoT](https://www.tandfonline.com/doi/full/10.1080/14685248.2018.1424995) [arxiv](https://arxiv.org/abs/1708.05409)   
