@@ -2,7 +2,7 @@
 
 The large scale structure of the universe, also called the cosmic web, is a very distinctive distribution of galaxies determined by the evolution of dark matter density due to gravity. Galaxies are located in _filaments_, _walls_ and _superclusters_ which surround _voids_, vast volumes of empty space. Below is a _slice_ of the cosmic web drawn from the data collected by the Sloan Digital SkySurvey
 
-![](https://www.sdss.org/wp-content/uploads/2014/06/orangepie.jpg)
+![](img/orangepie.jpg)
 
 This is, however, just a slice. The goal of the project is to visualize the depth and celestial extent of the data set. An example is the fly-through animation created by Aragon-Calvo et al. (2012) which is obviously beyond the scope of this project.
 
