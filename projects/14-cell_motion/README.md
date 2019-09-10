@@ -11,7 +11,7 @@ motion of a human glioblastome cell culture.
 
 The dataset provided by the Czirok-Lab (ELTE) contains phase-contrast
 microscopic time-lapse pictures of a cell culture. The pictures were taken
-in each 10 minutes. The picure names encode the experimental setting:
+every 10 minutes. The picture names encode the experimental setting:
 The first character of the name describes the cell-density
 (A: 300 1/cm^2, B: 1000 1/cm^2, C:3000 1/cm^2, D: 10000 1/cm^2).
 The second character (A,B,C) denotes the ring in the Petri-dish and
