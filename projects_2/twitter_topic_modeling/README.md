@@ -1,2 +1,2 @@
 # Twitter Topic: Modeling
-### Consultant: Eszter Bokány
+### Consultant: Eszter Bokányi
