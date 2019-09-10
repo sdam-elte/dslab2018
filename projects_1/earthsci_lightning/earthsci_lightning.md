@@ -1,4 +1,5 @@
 # Lightning Hotspots on Earth
+### Consultant: Imre Jánosi
 
 The main subject of this project is to recalculate the results of Albrecht et al. (2016), who
 analyzed 16 years of the Lightning Imaging Sensor (LIS) data using the Tropical Rainfall 
