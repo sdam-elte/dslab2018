@@ -5,21 +5,21 @@
 
 ### Timetable
 
-09/11/2019 - 1. (Personal) Introduction of topics by the consultants
-2019. 09. 18. - 2. (only submitted report) A short report about the plan of work
-2019. 09. 25. - 3. (Personal) An introduction of the work and the proposed work
+11/09/2019 - 1. (Personal) Introduction of topics by the consultants
+18/09/2019 - 2. (only submitted report) A short report about the plan of work
+25/09/2019 - 3. (Personal) An introduction of the work and the proposed work
 
-2019. 10. 02. - 4. (csak beszámoló) Report I.
-2019. 10. 09. - 5. (Personal) Report II.
-2019. 10. 16. - 6. (csak beszámoló) Report III.
-2019. 10. 23. - 7. (Personal)  IV.
-2019. 11. 06. - 8. (csak beszámoló) Report V.
-2019. 11. 13. - 9. (Personal) Report VI.
+02/10/2019 - 4. (csak beszámoló) Report I.
+09/10/2019 - 5. (Personal) Report II.
+16/10/2019 - 6. (csak beszámoló) Report III.
+23/10/2019. - 7. (Personal)  IV.
+06/11/2019 - 8. (csak beszámoló) Report V.
+13/11/2019 - 9. (Personal) Report VI.
 
-2019. 11. 20. - 11. () Final Report and presentation Group I.
-2019. 11. 27. - 12. (Personal) Final Report presentation Group II. 
+20/11/2019. - 11. () Final Report and presentation Group I.
+27/11/2019 - 12. (Personal) Final Report presentation Group II. 
 
-Project will be shuffled.
+Projects will be shuffled and the results of each work will be passed on. The aim is to check reproducibility.
 
-2019. 12. 04. - 13. -
-2019. 12. 11. - 14. (Personal) Presentation of the reproduced works
+04/12/2019 - 13. -
+11/12/2019 - 14. (Personal) Presentation of the reproduced works
