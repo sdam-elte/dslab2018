@@ -7,18 +7,18 @@
 
 11/09/2019 - 1. (Personal) Introduction of topics by the consultants
 <br>
-18/09/2019 - 2. (only submitted report) A short report about the plan of work
+18/09/2019 - 2. (only report submition) A short report about the plan of work
 <br>
 25/09/2019 - 3. (Personal) An introduction of the work and the proposed work
 
-02/10/2019 - 4. (csak beszámoló) Report I.<br>
+02/10/2019 - 4. (only report submition) Report I.<br>
 09/10/2019 - 5. (Personal) Report II.<br>
-16/10/2019 - 6. (csak beszámoló) Report III.<br>
-23/10/2019. - 7. (Personal)  IV.<br>
-06/11/2019 - 8. (csak beszámoló) Report V.<br>
+16/10/2019 - 6. (only report submition) Report III.<br>
+23/10/2019 - 7. (Personal)  IV.<br>
+06/11/2019 - 8. (only report submition) Report V.<br>
 13/11/2019 - 9. (Personal) Report VI.<br>
 
-20/11/2019. - 11. () Final Report and presentation Group I.<br>
+20/11/2019 - 11. (Personal) Final Report and presentation Group I.<br>
 27/11/2019 - 12. (Personal) Final Report presentation Group II. 
 
 Projects will be shuffled and the results of each work will be passed on. The aim is to check reproducibility.
