@@ -9,7 +9,7 @@ Az akusztikus emissziós jeleknek számos forrása van. A feszültségtér vált
 A kristályszerkezetek akusztikus jeleinek egyik fontos forrása a **diszlokáció mozgás**. A diszlokáció mozgás által generált jel függ a mozgás mechanizmusától, más jel keletkezik csúszás, mászás illetve gyorsulás esetén is. Ikerkristály keletkezése valamint az ikerstruktúra növekedése az általuk kibocsájtott akusztikus jelek alapján megkülönböztethető.  A diszlokációk annihilációja során hirtelen eltűnő feszültségtér szintén akusztikus forrás, ahogy a Portevin-Le Chatelier effektus során átvágott kiválások, diszlokáció mozgást akadályozó hatásának megszűnése miatt megváltozó feszültségtér is. Diszlokáció mozgás által kibocsájtott akusztikus jelek vizsgálatakor a mérés szempontjából zavaró akusztikus jelek keletkeznek a mikrorepedések, fázisátalakulások, újrakristályosodás és szemcsehatár csúszás következtében is.
 
 #### Akusztikus jelek detektálása
-Az akusztikus emisszió által keltett mechanikai feszültségek a forrástól távol a minta felszínének elmozdulását eredményezik. Ez az elmozdulás detektálható. A detektorunk egy piezoelektromos kristály, amit mechanikailag összekapcsolunk a mintánkkal. A minta kis deformációja a piezoelektromos detektor kis deformációját okozza (1. ábra).
+Az akusztikus emisszió által keltett mechanikai feszültségek a forrástól távol a minta felszínének elmozdulását eredményezik. Ez az elmozdulás detektálható. A detektorunk egy piezoelektromos kristály, amit mechanikailag összekapcsolunk a mintánkkal. A minta kis deformációja a **piezoelektromos detektor** kis deformációját okozza (1. ábra).
 
 ![ ](img/fig1.png  "vmi")
 1. ábra: Akusztikus detektor egy hozzáerősített Cu mintával
