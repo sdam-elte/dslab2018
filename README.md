@@ -5,7 +5,7 @@
 
 ### Timetable
 
-2019. 09. 11. - 1. (Personal) Introduction of topics by the consultants
+09. 11. 2019 - 1. (Personal) Introduction of topics by the consultants
 2019. 09. 18. - 2. (only submitted report) A short report about the plan of work
 2019. 09. 25. - 3. (Personal) An introduction of the work and the proposed work
 
