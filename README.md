@@ -6,7 +6,9 @@
 ### Timetable
 
 11/09/2019 - 1. (Personal) Introduction of topics by the consultants
+<br>
 18/09/2019 - 2. (only submitted report) A short report about the plan of work
+<br>
 25/09/2019 - 3. (Personal) An introduction of the work and the proposed work
 
 02/10/2019 - 4. (csak beszámoló) Report I.
